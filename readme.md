@@ -1,10 +1,10 @@
-## MERN Ecommerce: A Seamless Shopping Experience Powered by the MERN Stack, Redux Toolkit, and Material UI
+## AI Ecommerce: A Seamless Shopping Experience Powered by the AI Stack, Redux Toolkit, and Material UI
 
-**MERN Ecommerce** is a full-stack application designed to transform your online shopping experience. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it leverages Redux Toolkit for efficient state management and Material UI for a sleek, user-friendly interface. This project offers a robust platform for both users and admins, packed with essential features for a seamless experience.
+**AI Ecommerce** is a full-stack application designed to transform your online shopping experience. Built with the AI stack (MongoDB, Express.js, React, Node.js), it leverages Redux Toolkit for efficient state management and Material UI for a sleek, user-friendly interface. This project offers a robust platform for both users and admins, packed with essential features for a seamless experience.
 
-![ecommerce-homepage](https://github.com/RishiBakshii/mern-ecommerce/blob/main/frontend/src/assets/images/front.png?raw=true)
-<!-- ![ecommerce-banner](https://github.com/RishiBakshii/mern-ecommerce/blob/main/frontend/src/assets/images/banner4.jpg?raw=true) -->
-![ecommerce-banner](https://github.com/RishiBakshii/mern-ecommerce/blob/main/frontend/src/assets/images/banner3.jpg?raw=true)
+![ecommerce-homepage](https://github.com/RishiBakshii/AI-ecommerce/blob/main/frontend/src/assets/images/front.png?raw=true)
+<!-- ![ecommerce-banner](https://github.com/RishiBakshii/AI-ecommerce/blob/main/frontend/src/assets/images/banner4.jpg?raw=true) -->
+![ecommerce-banner](https://github.com/RishiBakshii/AI-ecommerce/blob/main/frontend/src/assets/images/banner3.jpg?raw=true)
 
 
 # **Features**
@@ -55,13 +55,13 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/RishiBakshii/AI-ecommerce.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-  cd mern-ecommerce
+  cd AI-ecommerce
 ```
 
 ### Install dependencies for frontend and backend separately

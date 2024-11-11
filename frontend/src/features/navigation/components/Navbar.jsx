@@ -20,7 +20,7 @@ import TuneIcon from '@mui/icons-material/Tune';
 import { selectProductIsFilterOpen, toggleFilters } from '../../products/ProductSlice';
 
 
-
+  
 export const Navbar=({isProductList=false})=> {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
   const [anchorElUser, setAnchorElUser] = React.useState(null);
@@ -59,7 +59,7 @@ export const Navbar=({isProductList=false})=> {
         <Toolbar sx={{p:1,height:"4rem",display:"flex",justifyContent:"space-around"}}>
 
           <Typography variant="h6" noWrap component="a" href="/" sx={{ mr: 2, display: { xs: 'none', md: 'flex' },fontWeight: 700, letterSpacing: '.3rem', color: 'inherit', textDecoration: 'none', }}>
-            MERN SHOP
+            AI SHOP
           </Typography>
 
 

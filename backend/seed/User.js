@@ -12,7 +12,7 @@ const users = [
   },
   {
     _id: "65c2526fdcd9253acfbaa731",
-    name: "rishibakshi",
+    name: "shrutikajha",
     email: "demo2@gmail.com",
     password: '$2a$10$tosjkprqtomSah0VJNyKi.TIv1JU65pl1i1IJ6wUttjYw.ENF99jG',
     isVerified: true,
