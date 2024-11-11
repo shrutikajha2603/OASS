@@ -15,6 +15,8 @@ const reviewRoutes = require("./routes/Review");
 const wishlistRoutes = require("./routes/Wishlist");
 const { connectToDB } = require("./database/db");
 const { GoogleGenerativeAI } = require('@google/generative-ai');
+const chatController = require('./controllers/ChatController');
+
 
 // Initialize Google Generative AI client
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || '');
@@ -125,3 +127,6 @@ server.get("/", (req, res) => {
 server.listen(8000, () => {
   console.log('Server [STARTED] ~ http://localhost:8000');
 });
+
+// Add this new route
+server.post('/api/chat', chatController.handleChat);
