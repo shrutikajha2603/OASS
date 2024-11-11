@@ -33,9 +33,9 @@ export const Footer = () => {
 
                 <Stack rowGap={'1rem'} padding={'1rem'}>
                     <Typography variant='h6'>Support</Typography>
-                    <Typography sx={labelStyles}>11th Main Street, Dhaka,  DH 1515, California.</Typography>
-                    <Typography sx={labelStyles}>exclusive@gmail.com</Typography>
-                    <Typography sx={labelStyles}>+88015-88888-9999</Typography>
+                    <Typography sx={labelStyles}>Kolkata, West Bengal, India.</Typography>
+                    <Typography sx={labelStyles}>shrutikajha2603@gmail.com</Typography>
+                    <Typography sx={labelStyles}>+91 88888-99999</Typography>
                 </Stack>
 
                 <Stack rowGap={'1rem'} padding={'1rem'}>
@@ -45,6 +45,7 @@ export const Footer = () => {
                     <Typography sx={labelStyles}>Cart</Typography>
                     <Typography sx={labelStyles}>Wishlist</Typography>
                     <Typography sx={labelStyles}>Shop</Typography>
+                    <Typography sx={labelStyles}>AI Assistant</Typography>
                 </Stack>
 
                 <Stack rowGap={'1rem'} padding={'1rem'}>
@@ -88,7 +89,7 @@ export const Footer = () => {
 
             {/* lower */}
             <Stack alignSelf={"center"}>
-                <Typography color={'GrayText'}>&copy; Mern Store {new Date().getFullYear()}. All right reserved</Typography>
+                <Typography color={'GrayText'}>&copy; AI Store {new Date().getFullYear()}. All right reserved</Typography>
             </Stack>
 
     </Stack>

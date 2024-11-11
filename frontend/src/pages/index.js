@@ -1,5 +1,6 @@
 import { AddProductPage } from "./AddProductPage";
 import { AdminOrdersPage } from "./AdminOrdersPage";
+import { AdminDashboardPage } from "./AdminDashboardPage";
 import { CartPage } from "./CartPage";
 import { CheckoutPage } from "./CheckoutPage";
 import { ForgotPasswordPage } from "./ForgotPasswordPage";
@@ -31,5 +32,6 @@ export {
     AddProductPage,
     AdminOrdersPage,
     WishlistPage,
-    OtpVerificationPage
+    OtpVerificationPage,
+    AdminDashboardPage
 }
