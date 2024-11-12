@@ -58,7 +58,7 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/Shrutikajha2603/oabs.git
+  git clone https://github.com/shrutikajha2603/OASS
 ```
 
 ### Navigate to the project directory
@@ -175,4 +175,4 @@ Once both servers are running, you can access them at the following URL's:
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
-- [@RishiBakshii](https://github.com/RishiBakshii)
+- [@ShrutikaJha](https://github.com/shrutikajha2603)
