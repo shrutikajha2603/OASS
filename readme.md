@@ -1,6 +1,6 @@
-## AI Ecommerce: A Seamless Shopping Experience Powered by the AI Stack, Redux Toolkit, and Material UI
+## AI Shop: A Seamless AI Based Shopping System Powered by the AI Stack, Redux Toolkit, and Material UI
 
-**AI Ecommerce** is a full-stack application designed to transform your online shopping experience. Built with the AI stack (MongoDB, Express.js, React, Node.js), it leverages Redux Toolkit for efficient state management and Material UI for a sleek, user-friendly interface. This project offers a robust platform for both users and admins, packed with essential features for a seamless experience.
+**AI Shop** is a full-stack application designed to transform your online shopping experience. Built with the AI stack (MongoDB, Express.js, React, Node.js), it leverages Redux Toolkit for efficient state management and Material UI for a sleek, user-friendly interface. This project offers a robust platform for both users and admins, packed with essential features for a seamless experience.
 
 ![ecommerce-homepage](https://github.com/RishiBakshii/AI-ecommerce/blob/main/frontend/src/assets/images/front.png?raw=true)
 <!-- ![ecommerce-banner](https://github.com/RishiBakshii/AI-ecommerce/blob/main/frontend/src/assets/images/banner4.jpg?raw=true) -->
@@ -16,6 +16,9 @@
   
 - **Wishlist:**
   - Add, remove, and annotate products with personalized notes.
+
+- **AI Shopping Assistant:**
+  - Ask AI what to shop and take your shopping experience to another level.
   
 - **Order Management:**
   - Create new orders and view order history.
@@ -55,7 +58,7 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/AI-ecommerce.git
+  git clone https://github.com/Shrutikajha2603/oabs.git
 ```
 
 ### Navigate to the project directory
